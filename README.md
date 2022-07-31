@@ -44,7 +44,7 @@ In this step I provision the required certificate.
 
 
 <H3>Step 4 – Cloudfront</H3>
-
+In this step I setup regional distribution and enabled HTTPS.
 
 <img src="https://i.imgur.com/StjHhoG.png" height="80%" width="80%" alt="Image 4.1"/>
 
