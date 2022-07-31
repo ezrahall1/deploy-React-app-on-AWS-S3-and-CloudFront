@@ -1,19 +1,20 @@
 <h1>How to Deploy React App on AWS S3 and CloudFront</h1>
 
 <h2>Description</h2>
-Edit
-In this project I will demonstrate how I created a simple bash script and executed it. Bash script is an important part of process automation in Linux. It saves you time because you don't have to write certain commands again and again. You can perform daily tasks efficiently and even schedule them for automatic execution.
+In this project I will demonstrate I how deploy a react app to AWS using S3, CloudFront, ACM and Route53.
 <br />
 
 
 <h2>Services Used</h2>
 
-- <b>EC2</b> 
+- <b>S3</b> 
+- <b>CloudFront</b> 
+- <b>ACM</b> 
+- <b>Route53</b> 
 
 <h2>Environments Used </h2>
 
 - <b>AWS</b>
-- <b>Putty</b>
 
 <h2>YouTube Demonstration </h2>
 
