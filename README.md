@@ -35,7 +35,7 @@ In this step I created two A records.
 <img src="https://i.imgur.com/6MIRiNX.png" height="80%" width="80%" alt="Image 2.2"/>
 
 <H3>Step 3 – Certificate Manager</H3>
-In this step I provision the required certificate.
+In this step I provision the required certificates.
 
 
 <img src="https://i.imgur.com/pNUTl71.png" height="80%" width="80%" alt="Image 3.1"/>
