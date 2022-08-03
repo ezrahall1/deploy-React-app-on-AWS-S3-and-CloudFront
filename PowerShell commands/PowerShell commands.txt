@@ -1,0 +1,12 @@
+
+Node.js and NPM install
+https://nodejs.org/en/download/
+
+Verify installation:
+node -v
+npm -v
+
+C:\Users\Ezra\Desktop\react-app> npx create-react-app demo-app
+cd demo-app
+
+C:\Users\Ezra\Desktop\react-app\npx create-react-app\demo-app> npm run build
