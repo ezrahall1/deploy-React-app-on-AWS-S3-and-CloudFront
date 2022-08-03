@@ -22,7 +22,7 @@ In this project I will demonstrate how I deployed a react app to AWS using S3, C
 
 <h2>Program walk-through:</h2> 
 <H3>Step 1 – Create S3 bucket</H3>
-Created two S3 buckets and uploads files.
+Once I had created my react app using PowerShell, I created two S3 buckets and uploads files.
 
 <img src="https://i.imgur.com/BiBC58y.png" height="80%" width="80%" alt="Image 1"/>
 
