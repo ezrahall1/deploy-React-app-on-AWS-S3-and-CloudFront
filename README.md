@@ -1,7 +1,7 @@
 <h1>How to Deploy React App on AWS S3 and CloudFront</h1>
 
 <h2>Description</h2>
-In this project I will demonstrate how I deployed a react app to AWS using S3, CloudFront, ACM and Route53.
+In this project, I will showcase the deployment process of a React app on AWS, utilizing key services such as S3 for object storage, CloudFront for content delivery, ACM (AWS Certificate Manager) for managing SSL/TLS certificates, and Route 53 for domain registration and routing. The demonstration will encompass the step-by-step deployment workflow, ensuring the seamless integration of these AWS services to host the React app. This practical guide provides insights into best practices for deploying web applications on AWS, offering a comprehensive overview of the configuration and coordination of these services to achieve a robust and scalable deployment.
 <br />
 
 
